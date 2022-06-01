@@ -1,6 +1,6 @@
 # Lightweight JS AdBlock detection library
 
-### [Demo](https://0-day.pw/adblockdetector/)
+### [Demo](https://0-day.pw/adbdetector/)
 
 ## Usage
 ```html
