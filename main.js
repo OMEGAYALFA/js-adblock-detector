@@ -1,6 +1,6 @@
 window.AdBlockDetector = {
     check (onDetect=()=>{}){
-        fetch(window.location.protocol + '//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js').catch(() => {
+        fetch(window.location.protocol + '/js/prebid-ads.js').catch(() => {
             onDetect()
         })
     },
