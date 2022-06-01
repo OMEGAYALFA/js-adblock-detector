@@ -1,4 +1,4 @@
-# Pure JS AdBlock detection library
+# Lightweight JS AdBlock detection library
 
 ### [Demo](https://0-day.pw/adblockdetector/)
 
