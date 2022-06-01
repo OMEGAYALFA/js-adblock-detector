@@ -2,7 +2,7 @@
 
 ### [Demo](https://0-day.pw/adblockdetector/)
 
-# Usage
+## Usage
 ```html
 <script src="path/to/adblockdetector.min.js"></script>
 <script>
@@ -18,5 +18,5 @@
 </script>
 ```
 
-# License
+## License
 [MIT](https://github.com/zoto-ff/js-adblock-detector/blob/main/LICENSE)
